@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hellzom (Rishi)
+- 👀 I’m interested in coding logical solutions to problems.
+- 🌱 I’m currently learning MERN stack along with data structure in Python.
+- 📫 Mail me at work.rishiraj@gmail.com or let's connect at linkedin : https://www.linkedin.com/in/rishirajaman/

@@ -2,7 +2,8 @@
 - 👋 I’m @hellzom (Rishi) from Purnia, Bihar and currently persuing MCA from KIIT University, Bhubaneshwar.
 - 👀 I’m interested in coding logical solutions to problems.
 - 🌱 I’m currently learning MERN stack along with data structure in C++ & Python.
-- 📫 Let's connect : [![Gmail Badge](https://img.shields.io/badge/-rishirajaman4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishirajaman4@gmail.com)](mailto:mailharshkhatri@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-rishirajaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishirajaman/)][![Gmail Badge](https://img.shields.io/badge/-r.i.s.h.i.r.a.j-c14438?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/r.i.s.h.i.r.a.j/)](mailto:mailharshkhatri@gmail.com)
+- 📫 Let's connect :
+[![Gmail Badge](https://img.shields.io/badge/-rishirajaman4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishirajaman4@gmail.com)](mailto:mailharshkhatri@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-rishirajaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishirajaman/)][![Gmail Badge](https://img.shields.io/badge/-r.i.s.h.i.r.a.j-c14438?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/r.i.s.h.i.r.a.j/)](mailto:mailharshkhatri@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hellzom.hellzom)
 Meanwhile watch these [🦜 parrots]:

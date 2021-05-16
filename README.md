@@ -6,6 +6,7 @@
 - 👀 I’m interested in coding logical solutions to problems. </br>
 - 🌱 I’m currently learning MERN stack along with data structure in C++ & Python. </br>
 - 📫 Let's connect : </br>
+[![Linkedin Badge](https://img.shields.io/badge/-rishirajaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/rishirajaman/)
 
 
 </br>

@@ -12,6 +12,8 @@
 [![Website Badge](https://img.shields.io/badge/-rishiraj.codes-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.rishiraj.codes/) [![Gmail Badge](https://img.shields.io/badge/-rishirajaman4@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishirajaman4@gmail.com)](mailto:rishirajaman4@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-rishiraj_aman-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rishiraj_aman)](https://www.twitter.com/rishiraj_aman)
 [![Github Badge](https://img.shields.io/badge/-hellzom-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hellzom/)](https://github.com/hellzom/)
+[![Spotify Badge](https://img.shields.io/badge/-Rishi-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/6RsEYxFWc3QBobtH4JJUeS?si=d799489587a142d5)](https://open.spotify.com/playlist/6RsEYxFWc3QBobtH4JJUeS?si=d799489587a142d5/)
+
 
 <hr>
 <h4 align="left">

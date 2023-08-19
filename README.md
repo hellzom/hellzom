@@ -2,7 +2,7 @@
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 </h1>
 - 👋 I’m Rishi from Purnia, Bihar. </br>
-- 🎓 Postgraduate student at KIIT University, Bhubaneshwar. </br>
+- 🎓 Software Engineer at Capgemini </br>
 - 👀 I’m interested in coding logical solutions to problems. </br>
 - 🌱 I’m currently learning MERN stack along with data structure in C++ & Python. </br>
 - 📫 Let's connect : </br>

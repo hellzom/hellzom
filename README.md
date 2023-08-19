@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-rishirajaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/rishirajaman/)
 [![Instagram Badge](https://img.shields.io/badge/-r.i.s.h.i.r.a.j-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/r.i.s.h.i.r.a.j/)](https://www.instagram.com/sriharikapu/)
-[![Website Badge](https://img.shields.io/badge/-rishiraj.codes-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.rishiraj.codes/) [![Gmail Badge](https://img.shields.io/badge/-rishirajaman4@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishirajaman4@gmail.com)](mailto:rishirajaman4@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rishirajaman4@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishirajaman4@gmail.com)](mailto:rishirajaman4@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-rishiraj_aman-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rishiraj_aman)](https://www.twitter.com/rishiraj_aman)
 [![Github Badge](https://img.shields.io/badge/-hellzom-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hellzom/)](https://github.com/hellzom/)
 [![Spotify Badge](https://img.shields.io/badge/-Rishi-green?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/6RsEYxFWc3QBobtH4JJUeS?si=d799489587a142d5)](https://open.spotify.com/playlist/6RsEYxFWc3QBobtH4JJUeS?si=d799489587a142d5/)

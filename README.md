@@ -3,8 +3,9 @@
 </h1>
 - 👋 I’m Rishi from Purnia, Bihar. </br>
 - 🎓 Software Engineer at Capgemini. </br>
+- 🎓 3x Azure Certified </br>
 - 👀 I’m interested in coding logical solutions to problems. </br>
-- 🌱 I’m currently learning MERN stack along with data structure in C++ & Python. </br>
+- 🌱 I’m currently learning MERN stack along with data structure. </br>
 - 📫 Let's connect : </br>
 
 &nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-rishirajaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/rishirajaman/)

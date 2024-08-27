@@ -1,11 +1,11 @@
 <h1 align="center">
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 </h1>
-- 👋 I’m Rishi from Purnia, Bihar. </br>
+- 👋 I’m Rishi from India. </br>
 - 🎓 Software Engineer at Capgemini. </br>
-- 🎓 3x Azure Certified </br>
+- 🎓 4x Azure Certified </br>
 - 👀 I’m interested in coding logical solutions to problems. </br>
-- 🌱 I’m currently learning MERN stack along with data structure. </br>
+- 🌱 I’m currently mastering C#, ASP.NET along with Azure Cloud. </br>
 - 📫 Let's connect : </br>
 
 &nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-rishirajaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/rishirajaman/)
